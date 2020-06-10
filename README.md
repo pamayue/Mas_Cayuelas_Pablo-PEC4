@@ -2,6 +2,10 @@
 
 La PEC, correspondiente a la asignatura Visualización de datos, perteneciente al Máster en Ciencia de Datos de la Universitat Oberta de Catalunya, tiene como objetivo ver el la distribución de los acuerdos de paz firmados en el mundo en lo que corresponde al tema "derechos humanos e igualdad".
 
+## Visualización
+
+Se encuentran publicada en Tableau Public: https://public.tableau.com/profile/pablo.mas.cayuelas#!/vizhome/ACUERDOSDEPAZ/Dashboard1?publish=yes
+
 ## Ficheros de la actividad
 
 * csv/Country.xlsx contiene los códigos ISO de los países del mundo.
